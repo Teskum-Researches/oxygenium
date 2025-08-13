@@ -7,7 +7,7 @@
 ver = "3.3"
 name = "Oxygenium"
 
-print(f'{name} {ver} (c) GreenWorks, 2025')
+print(f'{name} {ver} (c) Scratch Researches, 2025')
 print("")
 print('НЕ РАСПРОСТРАНЯЙТЕ ПРОГРАММУ!')
 print("")
@@ -242,3 +242,4 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
